@@ -16,8 +16,9 @@ This app is using the NASA API to display the earth polychromatic image.
 
 # Questions:
 
-1. how do you handle the Error handling in this app?
-2. how you will imporve this app?
+1. how you will imporve this app?
+2. how do you handle the Error handling in this app?
+3. which operation you can do for better performence optimization?
 
 ## Available Scripts
 
