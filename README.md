@@ -8,6 +8,17 @@ This app is using the NASA API to display the earth polychromatic image.
 
 - Checkout /utils/nasa.util.ts for the API functions.# Getting Started with Create React App
 
+---
+
+---
+
+---
+
+# Questions:
+
+1. how do you handle the Error handling in this app?
+2. how you will imporve this app?
+
 ## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
