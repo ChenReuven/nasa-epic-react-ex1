@@ -1,8 +1,16 @@
-# Getting Started with Create React App
+# PRD - Excersice Requirements
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is using the NASA API to display the earth polychromatic image.
+
+1. choosing a date triggers an API call to fetch the available images for that date.
+2. The items should be displayed in the Menu component.
+3. Clicking on an item should display the image in the ImageDisplay component.
+
+- Checkout /utils/nasa.util.ts for the API functions.# Getting Started with Create React App
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
